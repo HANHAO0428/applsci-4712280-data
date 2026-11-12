@@ -8,6 +8,12 @@ Author: **Hao HAN**. Dataset version: **1.0.0**.
 
 This dataset and its documentation are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit Hao HAN and cite the dataset when reusing it.
 
+## Archived version and citation
+
+Version 1.0.0 is permanently archived on Zenodo: [10.5281/zenodo.24149150](https://doi.org/10.5281/zenodo.24149150). Cite this version DOI for the data used in the manuscript.
+
+Han, H. (2026). *Optical features dataset for Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study* (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24149150
+
 ## File
 
 `all.csv` contains 37,265 data rows and 25 columns. The original CSV, including its Chinese column names and numeric values, is preserved without modification. This repository contains extracted optical features, not the source images or videos.
@@ -62,6 +68,12 @@ validation = df[df["数据集"] == "val"]
 test = df[df["数据集"] == "test"]
 ```
 
+## Archived version and citation
+
+Version 1.0.0 is permanently archived on Zenodo: [10.5281/zenodo.24149150](https://doi.org/10.5281/zenodo.24149150). Cite this version DOI for the data used in the manuscript.
+
+Han, H. (2026). *Optical features dataset for Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study* (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24149150
+
 ## File integrity
 
 SHA-256 of `all.csv`:
@@ -69,4 +81,5 @@ SHA-256 of `all.csv`:
 ```text
 8b89952b8aa1d710d0bc3fc038a39687e0f1ed74479512d24d5f1331e8700946
 ```
+
 
