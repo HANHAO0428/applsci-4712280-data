@@ -1,0 +1,25 @@
+{
+  "title": "Optical features dataset for Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Han, Hao"
+    }
+  ],
+  "description": "Optical features dataset accompanying the manuscript \"Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study\" (Applied Sciences manuscript applsci-4712280). Version 1.0.0 contains 37,265 records and 25 columns in all.csv, plus README documentation. Features include flame area ratio, relative flame centroid position, and regional maximum and mean brightness. Existing partitions contain 26,096 training, 5,586 validation, and 5,583 test records. Source images and videos are not included. Original column names and data values are preserved.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "incineration state recognition",
+    "cremator",
+    "infrared images",
+    "optical features"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/HANHAO0428/applsci-4712280-data",
+      "relation": "isSupplementTo"
+    }
+  ]
+}

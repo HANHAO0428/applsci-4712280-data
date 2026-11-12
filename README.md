@@ -1,6 +1,12 @@
 # Optical features dataset
 
-Dataset accompanying Applied Sciences manuscript **applsci-4712280**.
+Dataset accompanying **Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study** (Applied Sciences manuscript **applsci-4712280**).
+
+Author: **Hao HAN**. Dataset version: **1.0.0**.
+
+## License
+
+This dataset and its documentation are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit Hao HAN and cite the dataset when reusing it.
 
 ## File
 
@@ -63,3 +69,4 @@ SHA-256 of `all.csv`:
 ```text
 8b89952b8aa1d710d0bc3fc038a39687e0f1ed74479512d24d5f1331e8700946
 ```
+
