@@ -16,7 +16,7 @@ Han, H. (2026). *Optical features dataset for Incineration State Recognition of 
 
 ## File
 
-`all.csv` contains 37,265 data rows and 25 columns. The original CSV, including its Chinese column names and numeric values, is preserved without modification. This repository contains extracted optical features, not the source images or videos.
+`all.csv` contains 37,265 data rows and 25 columns. Chinese column names and numeric values are preserved. Git normalizes line endings to LF in the archived CSV. This repository contains extracted optical features, not the source images or videos.
 
 ## Dataset partitions
 
@@ -76,10 +76,17 @@ Han, H. (2026). *Optical features dataset for Incineration State Recognition of 
 
 ## File integrity
 
-SHA-256 of `all.csv`:
+SHA-256 of the original local CSV (CRLF line endings):
 
 ```text
 8b89952b8aa1d710d0bc3fc038a39687e0f1ed74479512d24d5f1331e8700946
 ```
 
+
+
+SHA-256 of the archived CSV (LF line endings):
+
+2f7ea8942e08ea9f51a54aac42ea6e50e9dabe23250e67bf45ce98f671dfec15
+
+The CSV text is identical after normalizing line endings. The checksum in the archived v1.0.0 README refers to the original local CSV.
 
