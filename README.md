@@ -1,18 +1,16 @@
 # Optical features dataset
 
-Dataset accompanying **Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study** (Applied Sciences manuscript **applsci-4712280**).
+Dataset accompanying **Combustion State Recognition of a Furnace Based on Infrared Images: A Case Study** (submitted to **Case Studies in Thermal Engineering**).
 
-Author: **Hao HAN**. Dataset version: **1.0.0**.
+Author: **Hao HAN**. Dataset version: **1.0.1**.
 
 ## License
 
 This dataset and its documentation are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Credit Hao HAN and cite the dataset when reusing it.
 
-## Archived version and citation
+## Version history
 
-Version 1.0.0 is permanently archived on Zenodo: [10.5281/zenodo.24149150](https://doi.org/10.5281/zenodo.24149150). Cite this version DOI for the data used in the manuscript.
-
-Han, H. (2026). *Optical features dataset for Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study* (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24149150
+Version 1.0.1 updates the manuscript title and target journal to Case Studies in Thermal Engineering. Data values are unchanged from version 1.0.0. The original version remains available at https://doi.org/10.5281/zenodo.24149150.
 
 ## File
 
@@ -72,7 +70,7 @@ test = df[df["数据集"] == "test"]
 
 Version 1.0.0 is permanently archived on Zenodo: [10.5281/zenodo.24149150](https://doi.org/10.5281/zenodo.24149150). Cite this version DOI for the data used in the manuscript.
 
-Han, H. (2026). *Optical features dataset for Incineration State Recognition of a Cremator Based on Infrared Images: A Case Study* (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24149150
+Han, H. (2026). *Optical features dataset for Combustion State Recognition of a Furnace Based on Infrared Images: A Case Study* (1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24149150
 
 ## File integrity
 
@@ -89,4 +87,5 @@ SHA-256 of the archived CSV (LF line endings):
 2f7ea8942e08ea9f51a54aac42ea6e50e9dabe23250e67bf45ce98f671dfec15
 
 The CSV text is identical after normalizing line endings. The checksum in the archived v1.0.0 README refers to the original local CSV.
+
 
