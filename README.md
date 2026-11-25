@@ -89,3 +89,8 @@ SHA-256 of the archived CSV (LF line endings):
 The CSV text is identical after normalizing line endings. The checksum in the archived v1.0.0 README refers to the original local CSV.
 
 
+
+## Cite version 1.0.1
+
+Han, H. (2026). *Optical features dataset for Combustion State Recognition of a Furnace Based on Infrared Images: A Case Study* (1.0.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24532452
+
